@@ -1,6 +1,7 @@
 chroma_db/
 data/
 venv/
+defense_rag.code-workspace
 .env
 __pycache__/
 *.pyc
