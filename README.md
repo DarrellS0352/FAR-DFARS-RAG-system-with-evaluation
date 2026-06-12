@@ -124,7 +124,7 @@ ollama serve
 Drop FAR/DFARS PDFs into a `data/` folder. Free source: [acquisition.gov/far](https://www.acquisition.gov/far)
 
 ### Run
-Open `Military_Maintenance_Manual_Assistant_RAG_app.ipynb` in VS Code or Jupyter and run cells sequentially. The vector store persists to disk after first ingest - subsequent runs load from disk automatically.
+Open `FAR_DFARS_RAG_system_with_evaluation.ipynb` in VS Code or Jupyter and run cells sequentially. The vector store persists to disk after first ingest - subsequent runs load from disk automatically.
 
 
 
